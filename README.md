@@ -1,2 +1,2 @@
 # BEable-GPS
-Codes for design gRNAs for a chosen cytosine base editors
+Codes for gRNA design for a chosen cytosine base editors
