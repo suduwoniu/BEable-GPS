@@ -68,7 +68,9 @@ python BEable_search_sequence.py one_seuqence.txt PAM_sequence length_gRNA_space
 
 
 Example:
+```
 python BEable_search_sequence.py one_sequence.txt NGG 20 4 8 Cas9 > BE3_result.txt  
+```
 
 ###### Parameters:
 
